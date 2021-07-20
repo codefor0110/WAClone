@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329226147791",
+    "firebase_url": "https://cf-meetup-704dc.firebaseio.com",
+    "project_id": "cf-meetup-704dc",
+    "storage_bucket": "cf-meetup-704dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329226147791:android:8b3fecdcf12411ce50a4ba",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329226147791-k90q9vcj7nttggak7d71vmnnbtg6u2d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKsnNlNSNDKutyt73EcuZeeM-FK1DB4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329226147791-k90q9vcj7nttggak7d71vmnnbtg6u2d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
